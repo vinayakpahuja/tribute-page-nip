@@ -12,7 +12,7 @@ h1,#diff,#Name,#timeline	{
 		margin:10px;
  		}
  	h1	{
- 		font-family:'Dancing Script', cursive;
+ 		font-family: 'Clicker Script', cursive;
  		font-size:160px;
 		margin-top:0px;
  		}
@@ -24,6 +24,7 @@ h1,#diff,#Name,#timeline	{
  	div{
  			font-size:20px;
  		}
+    
  	#Name{
  			color:#2e2e1f;
  			font-style:'EB Garamond', serif;
@@ -31,7 +32,7 @@ h1,#diff,#Name,#timeline	{
 			max-width:1500px;
  		 }
  		 #timeline{
- 		 font-family: 'EB Garamond', serif;
+ 		 align-content: center;
  		 }
  	h2{
  		color:#707070;
